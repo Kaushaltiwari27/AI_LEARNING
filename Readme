@@ -1,0 +1,42 @@
+# 🚀 30 Days of AI & Generative AI
+
+This repo documents my journey of learning **Artificial Intelligence + Generative AI** in **30 days**.  
+It includes projects in **Machine Learning, Deep Learning, NLP, LLMs, GANs, and Stable Diffusion**.
+
+---
+
+## 📅 Learning Roadmap
+- **Week 1**: Python, Math & AI Basics  
+- **Week 2**: Core Machine Learning  
+- **Week 3**: Deep Learning (CNNs, RNNs)  
+- **Week 4**: Generative AI (LLMs, Diffusion, GANs)  
+
+---
+
+## 📂 Projects Included
+✅ House Price Prediction (Linear Regression)  
+✅ Titanic Survival Classifier  
+✅ Spam Email Classifier  
+✅ Movie Recommendation System  
+✅ MNIST Digit Recognition (CNN)  
+✅ Cats vs Dogs Classifier  
+✅ Sentiment Analysis (RNN/LSTM)  
+✅ Chatbot with GPT-2 + Gradio  
+✅ Text-to-Image Generator (Stable Diffusion)  
+✅ Final AI Project  
+
+---
+
+## ⚡ Tech Stack
+- Python 🐍  
+- NumPy, Pandas, Scikit-learn  
+- PyTorch / TensorFlow  
+- HuggingFace Transformers  
+- Stable Diffusion, GANs  
+- Streamlit, Gradio (for deployment)  
+
+---
+
+## 📢 About
+This repo is part of my **30-day AI learning challenge**.  
+Follow my journey on [LinkedIn](https://linkedin.com/)
