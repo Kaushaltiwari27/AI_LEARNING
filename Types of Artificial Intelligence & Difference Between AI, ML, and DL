@@ -1,0 +1,49 @@
+Types of Artificial Intelligence & Difference Between AI, ML, and DL
+
+Artificial Intelligence (AI) is transforming how we live, work, and interact with technology. From voice assistants like Siri to advanced self-driving cars, AI is shaping the future. To better understand AI, it’s important to know its types and how it differs from Machine Learning (ML) and Deep Learning (DL).
+
+Types of AI
+
+AI can be categorized into three main types based on capability and functionality:
+
+1. Artificial Narrow Intelligence (ANI) — Weak AI
+
+This is the most common form of AI today. ANI is designed to perform a specific task.
+
+Examples: Google Search, Face Recognition, Chatbots, Spam Filters
+
+ANI cannot think beyond its programmed purpose.
+
+2. Artificial General Intelligence (AGI) — Strong AI
+
+AGI refers to a machine that can think, understand, and make decisions like a human.
+
+It can learn new skills and solve problems independently.
+
+Currently, AGI does not exist—it is still a research goal.
+
+3. Artificial Super Intelligence (ASI)
+
+ASI goes beyond human intelligence—able to outperform us in creativity, reasoning, and problem-solving.
+
+It is a theoretical concept and not yet achieved.
+
+ASI could lead to revolutionary changes but also raises ethical concerns.
+
+Difference Between AI, ML, and DL
+Feature	AI (Artificial Intelligence)	ML (Machine Learning)	DL (Deep Learning)
+Definition	A broad field of creating intelligent machines	A subset of AI that allows machines to learn from data	A subset of ML using neural networks to learn deeply from data
+Goal	Mimic human intelligence	Learn and improve automatically from experience	Learn complex patterns using layered neural networks
+Data Requirement	Can work with small or large data	Needs structured data	Requires large data and high computing power
+Examples	ChatGPT, Robotics, Smart Assistants	Recommendation Systems, Spam Detection	Face Recognition, Self-Driving Cars, Voice Assistants (Alexa, Siri)
+In Simple Words
+
+AI is the overall concept of making machines smart.
+
+Machine Learning is a method inside AI where machines learn from data.
+
+Deep Learning is an advanced form of ML using neural networks to learn complex patterns.
+
+Conclusion
+
+AI, ML, and DL are interconnected but not the same. AI is the big umbrella of intelligent systems. ML gives machines the ability to learn, and DL takes this learning to a more human-like, deeper level. Understanding these differences helps us appreciate how today’s smart technologies are built and how they are shaping our world.
